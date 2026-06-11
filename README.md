@@ -13,5 +13,5 @@ This application simulates a computer network to demonstrate how data routes aro
 ## How to run
 **Clone the repository:**
    ```bash
-   git clone [https://github.com/Huangoat/network-topology-simulator.git](https://github.com/YOUR-USERNAME/network-topology-simulator.git)
-   cd network-topology-simulator
+   git clone https://github.com/Huangoat/network-resilience-simulator.git
+   cd network-resilience-simulator
